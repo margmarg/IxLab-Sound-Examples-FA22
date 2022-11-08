@@ -1,7 +1,5 @@
 //Variant of the FFTSpectrum example from Processing Foundation's Sound Library Examples
-//Parameters of display tweaked to best display frequency range
-
-//Margaret Minsky
+//Parameters of display tweaked to best display frequency range by IMA Ix 2021
 
 /**
  * This sketch shows how to use the FFT class to analyze a stream
